@@ -1,0 +1,7 @@
+streamlit
+firebase-admin
+google-genai
+pillow
+requests
+python-dotenv
+streamlit-autorefresh
